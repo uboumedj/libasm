@@ -1,4 +1,4 @@
-# 42 ASM initiation project: libftasm ("old" version)
+# 42 ASM initiation project: libasm
 
 Project consists in recoding a few basic stdlib functions in ASM.
 
